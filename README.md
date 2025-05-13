@@ -19,12 +19,28 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack  
-<p align="center">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" title="Python"/> Python</code> &nbsp;•&nbsp;
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20" title="TensorFlow"/> TensorFlow</code> &nbsp;•&nbsp;
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20" title="PyTorch"/> PyTorch</code> &nbsp;•&nbsp;
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" title="Pandas"/> Pandas</code>  
+<p align="center"> 
+<table> 
+  <tr> <!-- Row 1 --> 
+    <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <br /> <span><b>Python</b></span> 
+    </td> 
+    <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /> <br /> <span><b>TensorFlow</b></span> 
+    </td> 
+    <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" /> <br /> <span><b>PyTorch</b></span> 
+    </td> 
+    <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /> <br /> <span><b>Pandas</b></span> 
+    </td> 
+  </tr> 
+  <tr> <!-- Row 2 --> 
+    <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" /> <br /> <span><b>NumPy</b></span> 
+    </td> 
+    <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> <br /> <span><b>MySQL</b></span> </td> 
+    <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> <br /> <span><b>Git</b></span> 
+    </td> 
+    <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> <br /> <span><b>Docker</b></span> 
+    </td> 
+  </tr> 
+</table> 
 </p>
 
 ---
