@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
@@ -43,7 +43,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;" >
   <a href="https://www.linkedin.com/in/ankitsonii" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
