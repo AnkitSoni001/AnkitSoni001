@@ -2,14 +2,14 @@
 <h3 align="center">CSE + AIML Student | Future ML Engineer | Code • Learn • Evolve</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnUt9rYVbD0gg/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="180" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Pursuing **CSE with AIML specialization** @[Your University]
+- 🎓 Pursuing **CSE with AIML specialization** @CHANDIGARH UNIVERSITY
 - 🤖 Passionate about **AI, ML, Deep Learning**, and **Data Science**
 - 🌱 Currently learning **LLMs (GPT, Llama) & MLOps**
 - 📊 Building data-driven solutions for real-world problems
@@ -38,9 +38,9 @@
 
 ### 🔧 Other Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" width="48%"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" width="48%"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" width="48%"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnkitSoni001&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSoni001&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSoni001&theme=radical" width="51%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSoni001&layout=compact&theme=radical" width="48%" />
 </p>
 
