@@ -65,19 +65,10 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankitsonii" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ankysoniankit@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=web&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsonii)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankysoniankit@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
+
 
 ---
 
