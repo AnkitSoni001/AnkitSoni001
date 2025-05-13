@@ -38,7 +38,7 @@
 
 ### 🔧 Other Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" width="40px"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" width="48px"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" width="48px"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" width="48px"/>
 </p>
@@ -48,8 +48,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitSoni001&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSoni001&theme=radical" width="51%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitSoni001&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSoni001&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSoni001&layout=compact&theme=radical" width="30%" />
 </p>
 
