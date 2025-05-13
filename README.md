@@ -62,10 +62,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ankitsonii">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp;
+  </a> 
   <a href="mailto:ankysoniankit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> &nbsp;
+  </a> 
   <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=web&logoColor=white" />
   </a>
@@ -76,5 +76,5 @@
 > *"Data is the new oil, but AI is the combustion engine."* — **Anonymous**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" />
 </p>
