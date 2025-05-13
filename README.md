@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center"> 
-<table> 
+<table align="center"> 
   <tr> <!-- Row 1 --> 
     <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <br /> <span><b>Python</b></span> 
     </td> 
