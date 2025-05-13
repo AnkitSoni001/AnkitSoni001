@@ -37,7 +37,7 @@
 </p>
 
 ### 🔧 Other Tools
-<p align="center">
+<p align="center" width="40%">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitSoni001&show_icons=true&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitSoni001&show_icons=true&theme=radical" width="38%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSoni001&theme=radical" width="40%%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSoni001&layout=compact&theme=radical" width="30%" />
 </p>
