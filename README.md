@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm ANKIT</h1>
+<h1 align="center">Hi 👋, I'm ANKIT </h1>
 <h3 align="center">CSE + AIML Student | Future ML Engineer | Code • Learn • Evolve</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="180" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="180" />
 </p>
 
 ---
