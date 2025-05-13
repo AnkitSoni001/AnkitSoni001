@@ -67,15 +67,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankitsonii" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ankysoniankit@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=web&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>
 
