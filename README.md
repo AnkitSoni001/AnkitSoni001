@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><br>Python
   </div>
@@ -60,7 +60,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><br>CSS3
   </div>
 </p>
-
 
 ---
 
