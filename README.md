@@ -60,6 +60,7 @@
 > *“The best way to get started is to quit talking and begin doing.” – Walt Disney*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300"/>
 </p>
+
 
