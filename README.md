@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnkitSoni001&show_icons=true&theme=github_dark" width="37.5%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSoni001&theme=github_dark" width="40%%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSoni001&layout=compact&theme=radical" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSoni001&layout=compact&theme=github_dark" width="30%" />
 </p>
 
 ---
