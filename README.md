@@ -48,13 +48,10 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <!-- Top Row: Stats + Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitSoni001&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSoni001&theme=github_dark" width="48%" />
-  <!-- Bottom Row: Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSoni001&layout=compact&theme=github_dark" width="96%" style="margin-top:20px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitSoni001&show_icons=true&theme=github_dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSoni001&layout=compact&theme=github_dark" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSoni001&theme=github_dark" width="92%" style="margin-top:20px"/>
 </p>
 
 ---
